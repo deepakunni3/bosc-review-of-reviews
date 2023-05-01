@@ -33,7 +33,7 @@ def process_submission(submission_block: List) -> Dict:
     for element in submission_block:
         if element.startswith("["):
             # parse title
-            m = re.search("\[\d{1,3}\]", element)
+            m = re.search("\[\d{1,9}\]", element)
             submission_id = m.group()[1:-1]
             submission["id"] = submission_id
             m = re.search("\] (.+)", element)
