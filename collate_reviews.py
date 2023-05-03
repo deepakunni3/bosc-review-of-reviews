@@ -31,7 +31,7 @@ def process_submission(submission_block: List) -> Dict:
     current_property = None
     submission_id = None
     for element in submission_block:
-        if element.startswith("["):
+        if element.startswith("[") and ' et al' not in element:
             # parse title
             m = re.search("\[\d{1,9}\]", element)
             submission_id = m.group()[1:-1]
@@ -173,9 +173,9 @@ def write_tsv(data: List, filename: str) -> None:
 def main(input_filename: Path, output_filename: Path):
     submissions = []
     submission_block = []
-    with open(input_filename) as FH:
+    with open(input_filename, encoding="utf-8") as FH:
         for line in FH:
-            if line.startswith("["):
+            if line.startswith("[") and ' et al' not in line:
                 submission = process_submission(submission_block)
                 submissions.append(submission)
                 submission_block = [line.rstrip()]
