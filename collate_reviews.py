@@ -15,6 +15,7 @@ KNOWN_PROPERTIES = {
 SKIPPED_PROPERTIES = {'Acceptance criteria', 'Additional desiderata', 'Overall rating and comments'}
 
 
+
 def process_submission(submission_block: List) -> Dict:
     """
     Process a submission entry.
@@ -157,17 +158,13 @@ def write_tsv(data: List, filename: str) -> None:
         filename: The output filename
 
     """
-    fields = set()
-    for d in data:
-        fields.update(d.keys())
-    print(f"Header fields: {fields}")
-    print(f"Header fields (len): {len(fields)}")
+    ordered_fields = ('Time', 'submission_id', 'submission_authors', 'submission_title', 'review_id', 'PC member', 'score_summary', 'remark_summary')
     with open(filename, 'w') as FH:
-        writer = csv.DictWriter(FH, fieldnames=sorted(list(fields)), delimiter='\t')
+        writer = csv.DictWriter(FH, fieldnames=list(ordered_fields), delimiter='\t')
         writer.writeheader()
         for obj in data:
-            writer.writerow(obj)
-
+            record = {key: obj[key] for key in ordered_fields}
+            writer.writerow(record)
 
 
 def main(input_filename: Path, output_filename: Path):
@@ -214,6 +211,7 @@ def main(input_filename: Path, output_filename: Path):
 
     #print(json.dumps(all_reviews, indent=2))
     write_tsv(data=all_reviews, filename=output_filename)
+
 
 
 if __name__ == "__main__":
