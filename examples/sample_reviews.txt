@@ -1,0 +1,180 @@
+[1] Abstract 1
+Author 1 (Institute A) and Author 2 (Institute A).
+------------------------------------------------------- Review 1 -------------------------------------------------------
+PC member:  Reviewer 1
+Time:  Apr 26, 07:17
+Overall evaluation:  3 (strong accept)
+Overall evaluation for this abstract from the reviewer
+Reviewer's confidence:  5 (expert)
+Confidential remarks for the program committee:  
+(none)
+Acceptance criteria
+Relevant:  3 (yes)
+Whether this abstract is relevant for BOSC
+Available:  3 (yes)
+Whether the work mentioned in the abstract is available and accessible
+Open:  3 (yes)
+Whether the work mentioned in abstract uses an open source license
+Updated:  4 (project is new to BOSC (I checked))
+Whether the work is new or an update from a previous year
+Formatted:  3 (yes)
+Whether the abstract fits the formatting requirements
+Additional desiderata
+Community:  2 (sort of (explain))
+Does the authors make a sincere effort to build a community around their work
+Novelty:  3 (yes)
+Whether the work is novel
+Example:  3 (yes)
+Whether there are examples provided in the abstract
+Runnable:  3 (yes)
+Whether the code is runnable
+Overall rating and comments
+Quality score:  5 (excellent)
+Overall quality score and a summmary
+Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Whether this abstract is appropriate for a long talk
+Confidential remarks for the chair (optional):  
+(none)
+------------------------------------------------------- Review 2 -------------------------------------------------------
+PC member:  Reviewer 2
+Time:  Apr 29, 23:56
+Overall evaluation:  3 (strong accept)
+Overall evaluation for this abstract from the reviewer
+Reviewer's confidence:  5 (expert)
+Confidential remarks for the program committee:  
+(none)
+Acceptance criteria
+Relevant:  3 (yes)
+Whether this abstract is relevant for BOSC
+Available:  3 (yes)
+Whether the work mentioned in the abstract is available and accessible
+Open:  3 (yes)
+Whether the work mentioned in abstract uses an open source license
+Updated:  4 (project is new to BOSC (I checked))
+Whether the work is new or an update from a previous year
+Formatted:  3 (yes)
+Whether the abstract fits the formatting requirements
+Additional desiderata
+Community:  2 (sort of (explain))
+Does the authors make a sincere effort to build a community around their work
+Novelty:  3 (yes)
+Whether the work is novel
+Example:  3 (yes)
+Whether there are examples provided in the abstract
+Runnable:  3 (yes)
+Whether the code is runnable
+Overall rating and comments
+Quality score:  5 (excellent)
+Overall quality score and a summmary
+Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Whether this abstract is appropriate for a long talk
+Confidential remarks for the chair (optional):  
+(none)
+------------------------------------------------------- Review 3 -------------------------------------------------------
+PC member:  Reviewer 3
+Time:  May 01, 16:57
+Overall evaluation:  3 (strong accept)
+Overall evaluation for this abstract from the reviewer
+Reviewer's confidence:  5 (expert)
+Confidential remarks for the program committee:  
+(none)
+Acceptance criteria
+Relevant:  3 (yes)
+Whether this abstract is relevant for BOSC
+Available:  3 (yes)
+Whether the work mentioned in the abstract is available and accessible
+Open:  3 (yes)
+Whether the work mentioned in abstract uses an open source license
+Updated:  4 (project is new to BOSC (I checked))
+Whether the work is new or an update from a previous year
+Formatted:  3 (yes)
+Whether the abstract fits the formatting requirements
+Additional desiderata
+Community:  2 (sort of (explain))
+Does the authors make a sincere effort to build a community around their work
+Novelty:  3 (yes)
+Whether the work is novel
+Example:  3 (yes)
+Whether there are examples provided in the abstract
+Runnable:  3 (yes)
+Whether the code is runnable
+Overall rating and comments
+Quality score:  5 (excellent)
+Overall quality score and a summmary
+Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Whether this abstract is appropriate for a long talk
+Confidential remarks for the chair (optional):  
+(none)
+
+[2] Abstract 2
+Author 1 (Institute X) and Author 2 (Institute Y).
+------------------------------------------------------- Review 1 -------------------------------------------------------
+PC member: Reviewer 1
+Time:  Apr 25, 21:16
+Overall evaluation:  3 (strong accept)
+Overall evaluation for this abstract from the reviewer
+Reviewer's confidence:  5 (expert)
+Confidential remarks for the program committee:  
+(none)
+Acceptance criteria
+Relevant:  3 (yes)
+Whether this abstract is relevant for BOSC
+Available:  3 (yes)
+Whether the work mentioned in the abstract is available and accessible
+Open:  3 (yes)
+Whether the work mentioned in abstract uses an open source license
+Updated:  4 (project is new to BOSC (I checked))
+Whether the work is new or an update from a previous year
+Formatted:  3 (yes)
+Whether the abstract fits the formatting requirements
+Additional desiderata
+Community:  2 (sort of (explain))
+Does the authors make a sincere effort to build a community around their work
+Novelty:  3 (yes)
+Whether the work is novel
+Example:  3 (yes)
+Whether there are examples provided in the abstract
+Runnable:  3 (yes)
+Whether the code is runnable
+Overall rating and comments
+Quality score:  5 (excellent)
+Overall quality score and a summmary
+Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Whether this abstract is appropriate for a long talk
+Confidential remarks for the chair (optional):  
+(none)
+------------------------------------------------------- Review 2 -------------------------------------------------------
+PC member:  Reviewer 2
+Time:  Apr 28, 12:56
+Overall evaluation:  3 (strong accept)
+Overall evaluation for this abstract from the reviewer
+Reviewer's confidence:  5 (expert)
+Confidential remarks for the program committee:  
+(none)
+Acceptance criteria
+Relevant:  3 (yes)
+Whether this abstract is relevant for BOSC
+Available:  3 (yes)
+Whether the work mentioned in the abstract is available and accessible
+Open:  3 (yes)
+Whether the work mentioned in abstract uses an open source license
+Updated:  4 (project is new to BOSC (I checked))
+Whether the work is new or an update from a previous year
+Formatted:  3 (yes)
+Whether the abstract fits the formatting requirements
+Additional desiderata
+Community:  2 (sort of (explain))
+Does the authors make a sincere effort to build a community around their work
+Novelty:  3 (yes)
+Whether the work is novel
+Example:  3 (yes)
+Whether there are examples provided in the abstract
+Runnable:  3 (yes)
+Whether the code is runnable
+Overall rating and comments
+Quality score:  5 (excellent)
+Overall quality score and a summmary
+Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Whether this abstract is appropriate for a long talk
+Confidential remarks for the chair (optional):  
+(none)
