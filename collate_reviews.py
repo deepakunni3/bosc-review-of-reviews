@@ -159,11 +159,21 @@ def write_tsv(data: List, filename: str) -> None:
 
     """
     ordered_fields = ('Time', 'submission_id', 'submission_authors', 'submission_title', 'review_id', 'PC member', 'score_summary', 'remark_summary')
+    ordered_formatted_fields = {
+        'Time': 'Time',
+        'submission_id': 'Submission ID',
+        'submission_authors': 'Submission Authors',
+        'submission_title': 'Submission Title',
+        'review_id': 'Review ID',
+        'PC member': 'PC Member',
+        'score_summary': 'Scores',
+        'remark_summary': 'Remarks'
+    }
     with open(filename, 'w') as FH:
-        writer = csv.DictWriter(FH, fieldnames=list(ordered_fields), delimiter='\t')
+        writer = csv.DictWriter(FH, fieldnames=list(ordered_formatted_fields.values()), delimiter='\t')
         writer.writeheader()
         for obj in data:
-            record = {key: obj[key] for key in ordered_fields}
+            record = {ordered_formatted_fields[key]: obj[key] for key in ordered_fields}
             writer.writerow(record)
 
 
