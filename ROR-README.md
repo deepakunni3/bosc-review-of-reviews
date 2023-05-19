@@ -5,7 +5,7 @@ Since 2020, the BOSC Organizing Committee has conducted Review of Reviews (RORs)
 - Reviews are constructive
 - Reviews do not resort to strong language when providing criticism
 - Reviews are not biased
-- Reviews do not violate the [BOSC Review Process](https://github.com/OBF/bosc_materials/blob/master/BOSC_review_process.md)
+- Reviews do not violate [BOSC Review Process](https://github.com/OBF/bosc_materials/blob/master/BOSC_review_process.md)
 - Reviews do not violate [BOSC/OBF Code of Conduct](https://github.com/OBF/obf-docs/tree/master/code-of-conduct)
 
 This document serves as a starting point for conducting Review of Reviews (RORs) for BOSC.
@@ -54,9 +54,10 @@ Feel free to reach out to the Organizing Committee or previous ROR leads to clar
 
 ## 3. Ensure necessary privileges on EasyChair
 
-Ensure that you have the necessary privileges on EasyChair.
+Ensure that you have the necessary privileges on EasyChair. Typically this involves being made the 'Track Chair'
+for the conference on EasyChair.
 
-You should be able to:
+Once you are a Track Chair you should be able to:
 
 - Bulk download reviews from EasyChair
 - Edit existing reviews on EasyChair
