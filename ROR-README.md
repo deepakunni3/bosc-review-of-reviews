@@ -79,12 +79,15 @@ To prepare a spreadsheet out of this Word file, you need to do the following:
 
 - Copy over contents of the Word file into a text file
 - Remove the topmost line from the text file (this includes the 'Review List' line and the 'Submission index' line)
-- Save this text file (Take a look at [examples/sample_reviews.txt](examples/sample_reviews.txt) for an example of the formatting)
+- Save this text file
+    - Take a look at [examples/sample_reviews.txt](examples/sample_reviews.txt) for an example of the formatting
 - You can then parse this text file using the instructions in the [README](README.md)
-- After parsing you will get a TSV (Take a look at [examples/collated_sample_reviews.tsv](examples/collated_sample_reviews.tsv))
+- After parsing you will get a TSV
+    - Take a look at [examples/collated_sample_reviews.tsv](examples/collated_sample_reviews.tsv)
 - You can load this TSV into Google Spreadsheet or Excel Spreadsheet
 - Fix formatting and make it more readable
-- Add new columns (to the right) for each member in the ROR subcommittee (Take a look at [examples/sample_review_of_reviews_spreadsheet.xlsx](examples/sample_review_of_reviews_spreadsheet.xlsx))
+- Add new columns (to the right) for each member in the ROR subcommittee
+    - Take a look at [examples/sample_review_of_reviews_spreadsheet.xlsx](examples/sample_review_of_reviews_spreadsheet.xlsx)
 
 Now you can share this spreadsheet with other members of the ROR subcommittee.
 
