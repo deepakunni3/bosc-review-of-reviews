@@ -27,12 +27,12 @@ good to be aware of some last minute reviews pooling in.
 
 Following are steps that needs to happen for the ROR:
 
-1. Build a ROR subcommittee
-2. Prepare a timeline
-3. Ensure necessary privileges on EasyChair
-4. Preparation of ROR Spreadsheet
-5. Review of Reviews
-6. Redactions
+1. [Build a ROR subcommittee](#1-build-a-ror-subcommittee)
+2. [Prepare a timeline](#2-prepare-a-timeline)
+3. [Ensure necessary privileges on EasyChair](#3-ensure-necessary-privileges-on-easychair)
+4. [Preparation of ROR Spreadsheet](#4-preparation-of-ror-spreadsheet)
+5. [Review of Reviews](#5-review-of-reviews)
+6. [Redactions](#6-redactions)
 
 Each of the steps are explained in detail below with references to useful resources.
 
@@ -138,9 +138,9 @@ typically happen on Slack at the appropriate channel dedicated for abstract revi
 
 Here is an example of a timeline for ROR used in 2023:
 
-Abstract Submission Deadline: Apr 20, 2023
-Assignments to review abstracts: Apr 22, 2023
-Due date for reviews: May 01, 2023
-Notifications to authors of Submissions: May 11, 2023
+- **Abstract Submission Deadline:** Apr 20, 2023
+- **Assignments to review abstracts:** Apr 22, 2023
+- **Due date for reviews:** May 01, 2023
+- **Notifications to authors of Submissions:** May 11, 2023
 
 Based on the timeline above, the time window for conducting ROR would be between May 02 to May 10.
