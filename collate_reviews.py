@@ -178,7 +178,7 @@ def write_tsv(data: List, filename: str) -> None:
 
     """
     ordered_fields = (
-        "Time",
+        # "Time",
         "submission_id",
         "submission_authors",
         "submission_title",
@@ -188,7 +188,7 @@ def write_tsv(data: List, filename: str) -> None:
         "remark_summary",
     )
     ordered_formatted_fields = {
-        "Time": "Time",
+        # "Time": "Time",
         "submission_id": "Submission ID",
         "submission_authors": "Submission Authors",
         "submission_title": "Submission Title",
@@ -266,8 +266,8 @@ def main(input_filename: Path, output_filename: Path):
                 review["remark_summary"] = remark_summary_str
                 all_reviews.append(review)
 
-    print(json.dumps(all_reviews, indent=2))
-    # write_tsv(data=all_reviews, filename=output_filename)
+    # print(json.dumps(all_reviews, indent=2))
+    write_tsv(data=all_reviews, filename=output_filename)
 
 
 if __name__ == "__main__":
