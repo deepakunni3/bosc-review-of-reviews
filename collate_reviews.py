@@ -21,11 +21,15 @@ KNOWN_PROPERTIES = {
     "Novelty",
     "Example",
     "Runnable",
-    "Quality score",
+    "Quality Score",
     "Suitability for a long talk",
     "Confidential remarks for the chair (optional)",
 }
-SKIPPED_PROPERTIES = {"Acceptance criteria", "Additional desiderata", "Overall rating and comments"}
+SKIPPED_PROPERTIES = {
+    "Acceptance criteria",
+    "Additional desiderata",
+    "Overall rating and comments",
+}
 
 
 def process_submission(submission_block: List) -> Dict:
@@ -46,10 +50,10 @@ def process_submission(submission_block: List) -> Dict:
     for element in submission_block:
         if element.startswith("[") and " et al" not in element:
             # parse title
-            m = re.search("\[\d{1,9}\]", element)
+            m = re.search(r"\[\d{1,9}\]", element)
             submission_id = m.group()[1:-1]
             submission["id"] = submission_id
-            m = re.search("\] (.+)", element)
+            m = re.search(r"\] (.+)", element)
             title = m.group()[1:]
             submission["title"] = title
             current_property = "title"
@@ -99,11 +103,11 @@ def process_review(submission_id: str, submission: Dict, review_block: List) -> 
     review_id = None
     for element in review_block:
         if element.startswith("----------"):
-            m = re.match("-+\s(\w+\s+\d{1,3})\s", element)
+            m = re.match(r"-+\s(\w+\s+\d{1,3})\s", element)
             review_id = m.groups()[0]
             review["review_id"] = review_id
-        elif re.search("^([\w(')\s]+):", element):
-            m = re.match("^([\w(')\s]+):", element)
+        elif re.search(r"^([\w(')\s]+):", element):
+            m = re.match(r"^([\w(')\s]+):", element)
             if m.groups():
                 p = m.groups()[0].strip()
                 if p in KNOWN_PROPERTIES:
@@ -136,7 +140,7 @@ def process_properties(submission_id, review, property_block) -> Dict:
     property_name = None
     if property_block:
         first = property_block[0]
-        m1 = re.match("^([\w(')\s]+):", first)
+        m1 = re.match(r"^([\w(')\s]+):", first)
         if m1:
             property_name = m1.groups()[0].strip()
             if property_name in KNOWN_PROPERTIES:
@@ -174,7 +178,7 @@ def write_tsv(data: List, filename: str) -> None:
 
     """
     ordered_fields = (
-        "Time",
+        # "Time",
         "submission_id",
         "submission_authors",
         "submission_title",
@@ -184,7 +188,7 @@ def write_tsv(data: List, filename: str) -> None:
         "remark_summary",
     )
     ordered_formatted_fields = {
-        "Time": "Time",
+        # "Time": "Time",
         "submission_id": "Submission ID",
         "submission_authors": "Submission Authors",
         "submission_title": "Submission Title",
@@ -223,7 +227,7 @@ def main(input_filename: Path, output_filename: Path):
     for submission in submissions:
         if "reviews" in submission and submission["reviews"]:
             for review in submission["reviews"]:
-                # Available	Available remarks	Community	Community remarks	Confidential remarks for the chair (optional)	Confidential remarks for the program committee	Example	Example remarks	Formatted	Formatted remarks	Novelty	Novelty remarks	Open	Open remarks	Overall evaluation	Overall evaluation remarks	PC member	Quality score	Quality score remarks	Relevant	Relevant remarks	Reviewer's confidence	Runnable	Runnable remarks	Suitability for a long talk	Suitability for a long talk remarks	Time	Updated	Updated remarks	review_id	submission_authors	submission_id	submission_title
+                # Available Available remarks   Community   Community remarks   Confidential remarks for the chair (optional)   Confidential remarks for the program committee  Example Example remarks Formatted   Formatted remarks   Novelty Novelty remarks Open    Open remarks    Overall evaluation  Overall evaluation remarks  PC member   Quality Score   Quality Score remarks   Relevant    Relevant remarks    Reviewer's confidence   Runnable    Runnable remarks    Suitability for a long talk Suitability for a long talk remarks Time    Updated Updated remarks review_id   submission_authors  submission_id   submission_title
                 score_summary = [
                     f'Overall evaluation: {review["Overall evaluation"]}',
                     f"Reviewer's confidence: " + review["Reviewer's confidence"],
@@ -236,7 +240,7 @@ def main(input_filename: Path, output_filename: Path):
                     f'Novelty: {review["Novelty"]}',
                     f'Example: {review["Example"]}',
                     f'Runnable: {review["Runnable"]}',
-                    f'Quality score: {review["Quality score"]}',
+                    f'Quality Score: {review["Quality Score"]}',
                     f'Suitability for a long talk: {review["Suitability for a long talk"]}',
                 ]
                 score_summary_str = "\n\n".join(score_summary)
@@ -254,7 +258,7 @@ def main(input_filename: Path, output_filename: Path):
                     f'Novelty: {review["Novelty remarks"]}',
                     f'Example: {review["Example remarks"]}',
                     f'Runnable: {review["Runnable remarks"]}',
-                    f'Quality score: {review["Quality score remarks"]}',
+                    f'Quality Score: {review["Quality Score remarks"]}',
                     f'Suitability for a long talk: {review["Suitability for a long talk remarks"]}',
                 ]
                 remark_summary_str = "\n\n".join(remark_summary)
