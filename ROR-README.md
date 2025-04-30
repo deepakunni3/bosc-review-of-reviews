@@ -69,6 +69,13 @@ Please reach out to Nomi Harris (BOSC Chair) if you are not able to do any of th
 If you have the necessary privileges on EasyChair then you will be able to download all submissions as a Word file.
 This file describes all submissions, reviews, and additional metadata.
 
+Steps for getting the Word file:
+- Go to the [Easychair.org](https://easychair.org/) and login
+- Click on 'ISMB/ECCB 2025'
+- From the top navigation bar, go to 'Reviews' -> 'All Submissions'
+- You will end up on the 'Reviews' page. On the top right of the page, you will see a 'Reviews in Word' option
+- Click to download all reviews as a Word document
+
 > **Note:** If you were a reviewer and you had marked any submission as a conflict of interest for BOSC Abstract Review
 > then these submissions will not be part of the downloaded Word file. You will have to request someone on the ROR
 > subcommittee (or someone from the BOSC Organizing Committee) to provide the missing submissions and their corresponding
