@@ -16,12 +16,11 @@ KNOWN_PROPERTIES = {
     "Available",
     "Open",
     "Updated",
-    "Formatted",
     "Community",
     "Novelty",
     "Example",
-    "Runnable",
-    "Quality Score",
+    "Runnable (OPTIONAL)",
+    "Quality score",
     "Suitability for a long talk",
     "Confidential remarks for the chair (optional)",
 }
@@ -227,7 +226,6 @@ def main(input_filename: Path, output_filename: Path):
     for submission in submissions:
         if "reviews" in submission and submission["reviews"]:
             for review in submission["reviews"]:
-                # Available Available remarks   Community   Community remarks   Confidential remarks for the chair (optional)   Confidential remarks for the program committee  Example Example remarks Formatted   Formatted remarks   Novelty Novelty remarks Open    Open remarks    Overall evaluation  Overall evaluation remarks  PC member   Quality Score   Quality Score remarks   Relevant    Relevant remarks    Reviewer's confidence   Runnable    Runnable remarks    Suitability for a long talk Suitability for a long talk remarks Time    Updated Updated remarks review_id   submission_authors  submission_id   submission_title
                 score_summary = [
                     f'Overall evaluation: {review["Overall evaluation"]}',
                     f"Reviewer's confidence: " + review["Reviewer's confidence"],
@@ -235,12 +233,11 @@ def main(input_filename: Path, output_filename: Path):
                     f'Available: {review["Available"]}',
                     f'Open: {review["Open"]}',
                     f'Updated: {review["Updated"]}',
-                    f'Formatted: {review["Formatted"]}',
                     f'Community: {review["Community"]}',
                     f'Novelty: {review["Novelty"]}',
                     f'Example: {review["Example"]}',
-                    f'Runnable: {review["Runnable"]}',
-                    f'Quality Score: {review["Quality Score"]}',
+                    f'Runnable: {review["Runnable (OPTIONAL)"]}',
+                    f'Quality Score: {review["Quality score"]}',
                     f'Suitability for a long talk: {review["Suitability for a long talk"]}',
                 ]
                 score_summary_str = "\n\n".join(score_summary)
@@ -253,12 +250,11 @@ def main(input_filename: Path, output_filename: Path):
                     f'Available: {review["Available remarks"]}',
                     f'Open: {review["Open remarks"]}',
                     f'Updated: {review["Updated remarks"]}',
-                    f'Formatted: {review["Formatted remarks"]}',
                     f'Community: {review["Community remarks"]}',
                     f'Novelty: {review["Novelty remarks"]}',
                     f'Example: {review["Example remarks"]}',
-                    f'Runnable: {review["Runnable remarks"]}',
-                    f'Quality Score: {review["Quality Score remarks"]}',
+                    f'Runnable: {review["Runnable (OPTIONAL) remarks"]}',
+                    f'Quality Score: {review["Quality score remarks"]}',
                     f'Suitability for a long talk: {review["Suitability for a long talk remarks"]}',
                 ]
                 remark_summary_str = "\n\n".join(remark_summary)
