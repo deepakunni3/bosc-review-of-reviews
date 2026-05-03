@@ -1,7 +1,9 @@
-Time	Submission ID	Submission Authors	Submission Title	Review ID	PC Member	Scores	Remarks
-Apr 26, 07:17	1	Author 1 (Institute A) and Author 2 (Institute A).	 Abstract 1	Review 1	Reviewer 1	"Overall evaluation: 3 (strong accept)
+Submission ID	Submission Authors	Submission Title	Review ID	PC Member	Scores	Remarks
+1	Author 1 (Institute A) and Author 2 (Institute A).	 Abstract 1	Review 1	Reviewer 1	"Overall evaluation: 3 (strong accept)
 
 Reviewer's confidence: 5 (expert)
+
+I used AI to polish my reviews: 1 (Yes, I used AI/LLMs to polish the text of my reviews)
 
 Relevant: 3 (yes)
 
@@ -9,21 +11,21 @@ Available: 3 (yes)
 
 Open: 3 (yes)
 
-Updated: 4 (project is new to BOSC (I checked))
+Fresh: 4 (project is new to BOSC (I checked))
 
-Formatted: 3 (yes)
+AI use transparency: -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
 
 Community: 2 (sort of (explain))
+
+Active: 1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
 
 Novelty: 3 (yes)
 
 Example: 3 (yes)
 
-Runnable: 3 (yes)
+Usable: 3 (yes)
 
-Quality score: 5 (excellent)
-
-Suitability for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
+Suitable for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
 
 Confidential remarks for the program committee  (none)
 
@@ -33,24 +35,26 @@ Available: Whether the work mentioned in the abstract is available and accessibl
 
 Open: Whether the work mentioned in abstract uses an open source license
 
-Updated: Whether the work is new or an update from a previous year
+Fresh: Whether the work is new or an update from a previous year
 
-Formatted: Whether the abstract fits the formatting requirements
+AI use transparency: The authors have not disclosed the use of AI.
 
 Community: Does the authors make a sincere effort to build a community around their work
+
+Active: Whether or not the repository/codebase is active
 
 Novelty: Whether the work is novel
 
 Example: Whether there are examples provided in the abstract
 
-Runnable: Whether the code is runnable
+Usable: Whether the code is runnable
 
-Quality score: Overall quality score and a summmary
-
-Suitability for a long talk: Whether this abstract is appropriate for a long talk"
-Apr 29, 23:56	1	Author 1 (Institute A) and Author 2 (Institute A).	 Abstract 1	Review 2	Reviewer 2	"Overall evaluation: 3 (strong accept)
+Suitable for a long talk: Whether this abstract is appropriate for a long talk"
+1	Author 1 (Institute A) and Author 2 (Institute A).	 Abstract 1	Review 2	Reviewer 2	"Overall evaluation: 3 (strong accept)
 
 Reviewer's confidence: 5 (expert)
+
+I used AI to polish my reviews: 1 (Yes, I used AI/LLMs to polish the text of my reviews)
 
 Relevant: 3 (yes)
 
@@ -58,21 +62,21 @@ Available: 3 (yes)
 
 Open: 3 (yes)
 
-Updated: 4 (project is new to BOSC (I checked))
+Fresh: 4 (project is new to BOSC (I checked))
 
-Formatted: 3 (yes)
+AI use transparency: -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
 
 Community: 2 (sort of (explain))
+
+Active: 1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
 
 Novelty: 3 (yes)
 
 Example: 3 (yes)
 
-Runnable: 3 (yes)
+Usable: 3 (yes)
 
-Quality score: 5 (excellent)
-
-Suitability for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
+Suitable for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
 
 Confidential remarks for the program committee  (none)
 
@@ -82,24 +86,26 @@ Available: Whether the work mentioned in the abstract is available and accessibl
 
 Open: Whether the work mentioned in abstract uses an open source license
 
-Updated: Whether the work is new or an update from a previous year
+Fresh: Whether the work is new or an update from a previous year
 
-Formatted: Whether the abstract fits the formatting requirements
+AI use transparency: The authors have not disclosed the use of AI.
 
 Community: Does the authors make a sincere effort to build a community around their work
+
+Active: Whether or not the repository/codebase is active
 
 Novelty: Whether the work is novel
 
 Example: Whether there are examples provided in the abstract
 
-Runnable: Whether the code is runnable
+Usable: Whether the code is runnable
 
-Quality score: Overall quality score and a summmary
-
-Suitability for a long talk: Whether this abstract is appropriate for a long talk"
-May 01, 16:57	1	Author 1 (Institute A) and Author 2 (Institute A).	 Abstract 1	Review 3	Reviewer 3	"Overall evaluation: 3 (strong accept)
+Suitable for a long talk: Whether this abstract is appropriate for a long talk"
+1	Author 1 (Institute A) and Author 2 (Institute A).	 Abstract 1	Review 3	Reviewer 3	"Overall evaluation: 3 (strong accept)
 
 Reviewer's confidence: 5 (expert)
+
+I used AI to polish my reviews: 1 (Yes, I used AI/LLMs to polish the text of my reviews)
 
 Relevant: 3 (yes)
 
@@ -107,21 +113,21 @@ Available: 3 (yes)
 
 Open: 3 (yes)
 
-Updated: 4 (project is new to BOSC (I checked))
+Fresh: 4 (project is new to BOSC (I checked))
 
-Formatted: 3 (yes)
+AI use transparency: -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
 
 Community: 2 (sort of (explain))
+
+Active: 1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
 
 Novelty: 3 (yes)
 
 Example: 3 (yes)
 
-Runnable: 3 (yes)
+Usable: 3 (yes)
 
-Quality score: 5 (excellent)
-
-Suitability for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
+Suitable for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
 
 Confidential remarks for the program committee  (none)
 
@@ -131,24 +137,26 @@ Available: Whether the work mentioned in the abstract is available and accessibl
 
 Open: Whether the work mentioned in abstract uses an open source license
 
-Updated: Whether the work is new or an update from a previous year
+Fresh: Whether the work is new or an update from a previous year
 
-Formatted: Whether the abstract fits the formatting requirements
+AI use transparency: The authors have not disclosed the use of AI.
 
 Community: Does the authors make a sincere effort to build a community around their work
+
+Active: Whether or not the repository/codebase is active
 
 Novelty: Whether the work is novel
 
 Example: Whether there are examples provided in the abstract
 
-Runnable: Whether the code is runnable
+Usable: Whether the code is runnable
 
-Quality score: Overall quality score and a summmary
-
-Suitability for a long talk: Whether this abstract is appropriate for a long talk"
-Apr 25, 21:16	2	Author 1 (Institute X) and Author 2 (Institute Y).	 Abstract 2	Review 1	Reviewer 1	"Overall evaluation: 3 (strong accept)
+Suitable for a long talk: Whether this abstract is appropriate for a long talk "
+2	Author 1 (Institute X) and Author 2 (Institute Y).	 Abstract 2	Review 1	Reviewer 1	"Overall evaluation: 3 (strong accept)
 
 Reviewer's confidence: 5 (expert)
+
+I used AI to polish my reviews: 1 (Yes, I used AI/LLMs to polish the text of my reviews)
 
 Relevant: 3 (yes)
 
@@ -156,21 +164,21 @@ Available: 3 (yes)
 
 Open: 3 (yes)
 
-Updated: 4 (project is new to BOSC (I checked))
+Fresh: 4 (project is new to BOSC (I checked))
 
-Formatted: 3 (yes)
+AI use transparency: -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
 
 Community: 2 (sort of (explain))
+
+Active: 1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
 
 Novelty: 3 (yes)
 
 Example: 3 (yes)
 
-Runnable: 3 (yes)
+Usable: 3 (yes)
 
-Quality score: 5 (excellent)
-
-Suitability for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
+Suitable for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
 
 Confidential remarks for the program committee  (none)
 
@@ -180,24 +188,26 @@ Available: Whether the work mentioned in the abstract is available and accessibl
 
 Open: Whether the work mentioned in abstract uses an open source license
 
-Updated: Whether the work is new or an update from a previous year
+Fresh: Whether the work is new or an update from a previous year
 
-Formatted: Whether the abstract fits the formatting requirements
+AI use transparency: The authors have not disclosed the use of AI.
 
 Community: Does the authors make a sincere effort to build a community around their work
+
+Active: Whether or not the repository/codebase is active
 
 Novelty: Whether the work is novel
 
 Example: Whether there are examples provided in the abstract
 
-Runnable: Whether the code is runnable
+Usable: Whether the code is runnable
 
-Quality score: Overall quality score and a summmary
-
-Suitability for a long talk: Whether this abstract is appropriate for a long talk"
-Apr 28, 12:56	2	Author 1 (Institute X) and Author 2 (Institute Y).	 Abstract 2	Review 2	Reviewer 2	"Overall evaluation: 3 (strong accept)
+Suitable for a long talk: Whether this abstract is appropriate for a long talk"
+2	Author 1 (Institute X) and Author 2 (Institute Y).	 Abstract 2	Review 2	Reviewer 2	"Overall evaluation: 3 (strong accept)
 
 Reviewer's confidence: 5 (expert)
+
+I used AI to polish my reviews: 1 (Yes, I used AI/LLMs to polish the text of my reviews)
 
 Relevant: 3 (yes)
 
@@ -205,21 +215,21 @@ Available: 3 (yes)
 
 Open: 3 (yes)
 
-Updated: 4 (project is new to BOSC (I checked))
+Fresh: 4 (project is new to BOSC (I checked))
 
-Formatted: 3 (yes)
+AI use transparency: -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
 
 Community: 2 (sort of (explain))
+
+Active: 1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
 
 Novelty: 3 (yes)
 
 Example: 3 (yes)
 
-Runnable: 3 (yes)
+Usable: 3 (yes)
 
-Quality score: 5 (excellent)
-
-Suitability for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
+Suitable for a long talk: 3 (definitely merits a lightning talk, possibly a long talk)"	"Overall evaluation: Overall evaluation for this abstract from the reviewer
 
 Confidential remarks for the program committee  (none)
 
@@ -229,18 +239,18 @@ Available: Whether the work mentioned in the abstract is available and accessibl
 
 Open: Whether the work mentioned in abstract uses an open source license
 
-Updated: Whether the work is new or an update from a previous year
+Fresh: Whether the work is new or an update from a previous year
 
-Formatted: Whether the abstract fits the formatting requirements
+AI use transparency: The authors have not disclosed the use of AI.
 
 Community: Does the authors make a sincere effort to build a community around their work
+
+Active: Whether or not the repository/codebase is active
 
 Novelty: Whether the work is novel
 
 Example: Whether there are examples provided in the abstract
 
-Runnable: Whether the code is runnable
+Usable: Whether the code is runnable
 
-Quality score: Overall quality score and a summmary
-
-Suitability for a long talk: Whether this abstract is appropriate for a long talk"
+Suitable for a long talk: Whether this abstract is appropriate for a long talk"

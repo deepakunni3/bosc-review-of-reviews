@@ -8,6 +8,9 @@ Overall evaluation for this abstract from the reviewer
 Reviewer's confidence:  5 (expert)
 Confidential remarks for the program committee:  
 (none)
+Use of AI for review
+Written by me:  ✔
+I used AI to polish my reviews:  1 (Yes, I used AI/LLMs to polish the text of my reviews)
 Acceptance criteria
 Relevant:  3 (yes)
 Whether this abstract is relevant for BOSC
@@ -15,26 +18,23 @@ Available:  3 (yes)
 Whether the work mentioned in the abstract is available and accessible
 Open:  3 (yes)
 Whether the work mentioned in abstract uses an open source license
-Updated:  4 (project is new to BOSC (I checked))
+Fresh:  4 (project is new to BOSC (I checked))
 Whether the work is new or an update from a previous year
-Formatted:  3 (yes)
-Whether the abstract fits the formatting requirements
 Additional desiderata
+AI use transparency:  -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
+The authors have not disclosed the use of AI.
 Community:  2 (sort of (explain))
 Does the authors make a sincere effort to build a community around their work
+Active:  1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
+Whether or not the repository/codebase is active
 Novelty:  3 (yes)
 Whether the work is novel
 Example:  3 (yes)
 Whether there are examples provided in the abstract
-Runnable:  3 (yes)
+Usable (OPTIONAL):  3 (yes)
 Whether the code is runnable
-Overall rating and comments
-Quality score:  5 (excellent)
-Overall quality score and a summmary
-Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Suitable for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
 Whether this abstract is appropriate for a long talk
-Confidential remarks for the chair (optional):  
-(none)
 ------------------------------------------------------- Review 2 -------------------------------------------------------
 PC member:  Reviewer 2
 Time:  Apr 29, 23:56
@@ -43,33 +43,33 @@ Overall evaluation for this abstract from the reviewer
 Reviewer's confidence:  5 (expert)
 Confidential remarks for the program committee:  
 (none)
-Acceptance criteria
+Use of AI for review
+Written by me:  ✔
+I used AI to polish my reviews:  1 (Yes, I used AI/LLMs to polish the text of my reviews)
+BOSC Acceptance Criteria
 Relevant:  3 (yes)
 Whether this abstract is relevant for BOSC
 Available:  3 (yes)
 Whether the work mentioned in the abstract is available and accessible
 Open:  3 (yes)
 Whether the work mentioned in abstract uses an open source license
-Updated:  4 (project is new to BOSC (I checked))
+Fresh:  4 (project is new to BOSC (I checked))
 Whether the work is new or an update from a previous year
-Formatted:  3 (yes)
-Whether the abstract fits the formatting requirements
 Additional desiderata
+AI use transparency:  -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
+The authors have not disclosed the use of AI.
 Community:  2 (sort of (explain))
 Does the authors make a sincere effort to build a community around their work
+Active:  1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
+Whether or not the repository/codebase is active
 Novelty:  3 (yes)
 Whether the work is novel
 Example:  3 (yes)
 Whether there are examples provided in the abstract
-Runnable:  3 (yes)
+Usable (OPTIONAL):  3 (yes)
 Whether the code is runnable
-Overall rating and comments
-Quality score:  5 (excellent)
-Overall quality score and a summmary
-Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Suitable for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
 Whether this abstract is appropriate for a long talk
-Confidential remarks for the chair (optional):  
-(none)
 ------------------------------------------------------- Review 3 -------------------------------------------------------
 PC member:  Reviewer 3
 Time:  May 01, 16:57
@@ -78,33 +78,33 @@ Overall evaluation for this abstract from the reviewer
 Reviewer's confidence:  5 (expert)
 Confidential remarks for the program committee:  
 (none)
-Acceptance criteria
+Use of AI for review
+Written by me:  ✔
+I used AI to polish my reviews:  1 (Yes, I used AI/LLMs to polish the text of my reviews)
+BOSC Acceptance Criteria
 Relevant:  3 (yes)
 Whether this abstract is relevant for BOSC
 Available:  3 (yes)
 Whether the work mentioned in the abstract is available and accessible
 Open:  3 (yes)
 Whether the work mentioned in abstract uses an open source license
-Updated:  4 (project is new to BOSC (I checked))
+Fresh:  4 (project is new to BOSC (I checked))
 Whether the work is new or an update from a previous year
-Formatted:  3 (yes)
-Whether the abstract fits the formatting requirements
 Additional desiderata
+AI use transparency:  -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
+The authors have not disclosed the use of AI.
 Community:  2 (sort of (explain))
 Does the authors make a sincere effort to build a community around their work
+Active:  1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
+Whether or not the repository/codebase is active
 Novelty:  3 (yes)
 Whether the work is novel
 Example:  3 (yes)
 Whether there are examples provided in the abstract
-Runnable:  3 (yes)
+Usable (OPTIONAL):  3 (yes)
 Whether the code is runnable
-Overall rating and comments
-Quality score:  5 (excellent)
-Overall quality score and a summmary
-Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Suitable for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
 Whether this abstract is appropriate for a long talk
-Confidential remarks for the chair (optional):  
-(none)
 
 [2] Abstract 2
 Author 1 (Institute X) and Author 2 (Institute Y).
@@ -116,33 +116,33 @@ Overall evaluation for this abstract from the reviewer
 Reviewer's confidence:  5 (expert)
 Confidential remarks for the program committee:  
 (none)
-Acceptance criteria
+Use of AI for review
+Written by me:  ✔
+I used AI to polish my reviews:  1 (Yes, I used AI/LLMs to polish the text of my reviews)
+BOSC Acceptance Criteria
 Relevant:  3 (yes)
 Whether this abstract is relevant for BOSC
 Available:  3 (yes)
 Whether the work mentioned in the abstract is available and accessible
 Open:  3 (yes)
 Whether the work mentioned in abstract uses an open source license
-Updated:  4 (project is new to BOSC (I checked))
+Fresh:  4 (project is new to BOSC (I checked))
 Whether the work is new or an update from a previous year
-Formatted:  3 (yes)
-Whether the abstract fits the formatting requirements
 Additional desiderata
+AI use transparency:  -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
+The authors have not disclosed the use of AI.
 Community:  2 (sort of (explain))
 Does the authors make a sincere effort to build a community around their work
+Active:  1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
+Whether or not the repository/codebase is active
 Novelty:  3 (yes)
 Whether the work is novel
 Example:  3 (yes)
 Whether there are examples provided in the abstract
-Runnable:  3 (yes)
+Usable (OPTIONAL):  3 (yes)
 Whether the code is runnable
-Overall rating and comments
-Quality score:  5 (excellent)
-Overall quality score and a summmary
-Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Suitable for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
 Whether this abstract is appropriate for a long talk
-Confidential remarks for the chair (optional):  
-(none)
 ------------------------------------------------------- Review 2 -------------------------------------------------------
 PC member:  Reviewer 2
 Time:  Apr 28, 12:56
@@ -151,6 +151,10 @@ Overall evaluation for this abstract from the reviewer
 Reviewer's confidence:  5 (expert)
 Confidential remarks for the program committee:  
 (none)
+Use of AI for review
+Written by me:  ✔
+I used AI to polish my reviews:  1 (Yes, I used AI/LLMs to polish the text of my reviews)
+BOSC Acceptance Criteria
 Acceptance criteria
 Relevant:  3 (yes)
 Whether this abstract is relevant for BOSC
@@ -158,23 +162,20 @@ Available:  3 (yes)
 Whether the work mentioned in the abstract is available and accessible
 Open:  3 (yes)
 Whether the work mentioned in abstract uses an open source license
-Updated:  4 (project is new to BOSC (I checked))
+Fresh:  4 (project is new to BOSC (I checked))
 Whether the work is new or an update from a previous year
-Formatted:  3 (yes)
-Whether the abstract fits the formatting requirements
 Additional desiderata
+AI use transparency:  -1 (No, they seem to have used AI in ways that are not explained in their AI use disclosure (explain))
+The authors have not disclosed the use of AI.
 Community:  2 (sort of (explain))
 Does the authors make a sincere effort to build a community around their work
+Active:  1 (Content all created during a short period of time (<15 days) by a single contributor and/or has not been touched in the past year)
+Whether or not the repository/codebase is active
 Novelty:  3 (yes)
 Whether the work is novel
 Example:  3 (yes)
 Whether there are examples provided in the abstract
-Runnable:  3 (yes)
+Usable (OPTIONAL):  3 (yes)
 Whether the code is runnable
-Overall rating and comments
-Quality score:  5 (excellent)
-Overall quality score and a summmary
-Suitability for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
+Suitable for a long talk:  3 (definitely merits a lightning talk, possibly a long talk)
 Whether this abstract is appropriate for a long talk
-Confidential remarks for the chair (optional):  
-(none)
